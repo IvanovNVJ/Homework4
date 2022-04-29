@@ -46,13 +46,6 @@ namespace Homework4._3
                 {
                     break;
                 }
-
-
-
-
-
-
-
             }
 
                 
